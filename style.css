@@ -4,7 +4,7 @@
 	display: table-cell;
     vertical-align: middle;
 	width: 980px;
-	background-color: #777;
+	
 }
 
 
@@ -15,7 +15,6 @@
 	height:300px;
 	float: left;
 	border-style: solid;
-	border-color: green;
 	margin-right: 25px;
 	margin-bottom: 25px;
 	text-align: center;
@@ -27,7 +26,6 @@
 	height:300px;
 	float: left;
 	border-style: solid;
-	border-color: black;
 	margin-bottom: 25px;
 	clear: right;
 	text-align: center;
@@ -37,7 +35,6 @@
 	background-color: #ebebeb;
 	height:50px;
 	border-style: solid;
-	border-color: red;
 	text-align: center;
 	text-decoration-color: #777;
 
@@ -47,7 +44,6 @@
 	background-color: #ebebeb;
 	height:50px;
 	border-style: solid;
-	border-color: blue;
 	text-align: center;
 	margin-bottom: 25px;
 	text-decoration-color: #777;
@@ -60,7 +56,6 @@
 	background-color: #ebebeb;
 	height:50px;
 	border-style: solid;
-	border-color: blue;
 	text-align: center;
 	margin
 	padding-top: 10px;
@@ -72,7 +67,6 @@
 	top: 30px;
 	height: 240px;
 	border-style: solid;
-	border-color: red;
 	text-align: center;
 	background-color: #777;
 	margin-bottom: 15px;
